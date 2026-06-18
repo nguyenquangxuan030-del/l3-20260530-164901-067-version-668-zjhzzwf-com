@@ -1,8 +1,0 @@
-{
-  "source": "data_2000.txt",
-  "movie_count": 2000,
-  "category_count": 10,
-  "detail_pages": 2000,
-  "generated_at": "2026-05-26T07:14:46.985053Z",
-  "note": "HTML 页面均插入百度统计代码。页面图片按顶级目录 1.jpg 到 150.jpg 循环引用；若图片不存在则由 SVG fallback 防止空白。"
-}
